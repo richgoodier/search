@@ -1,0 +1,55 @@
+
+table{
+}
+
+td {
+    margin: 10px;
+    padding: 10px;
+    border: white dotted 2px;
+}
+
+.logo{
+    float: left;
+    margin-left: 100px;
+    background-color: cyan;
+    width: 90%;
+    image-resolution: from-image;
+}
+
+.text-center{
+    /* height: 100%; */
+    /* width: 60%; */
+}
+
+.form-container {
+    float: left;
+    width: 70%;
+    background-color: white;
+}
+
+.description {
+    text-align: left;
+}
+
+div.example {
+    text-align: left;
+    font-size: smaller;
+}
+
+td.example {
+    text-align: left;
+    font-weight: bolder; 
+}
+
+#heading {
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+input {
+    border-radius: 5px;
+}
+
+button {
+    color: aqua;
+}
