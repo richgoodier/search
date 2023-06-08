@@ -2,6 +2,8 @@
 
 This repository contains a front-end replica of the Google Search, Google Image Search, and Google Advanced Search. This project is part of the [CS50's Web Programming with Python and JavaScript](https://www.edx.org/professional-certificate/cs50s-web-programming-with-python-and-javascript) course.
 
+#### Video Demo: <https://youtu.be/OCvnjT51gv0>
+
 ## Project Description
 
 The goal of this project is to design and implement a front-end interface that interacts with Google Search, Google Image Search, and Google Advanced Search. The user interface mimics the real Google Search's look and feel and the user experience is similar as it utilizes Google's search capabilities.
